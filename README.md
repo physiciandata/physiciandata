@@ -14,7 +14,7 @@ I engage in academic research on AI, developing frameworks and evaluation method
 I'm also a researcher at the international research center "BIH Center for Regenerative Therapies" (BCRT) and at Helmholtz Research in Data Science (HEIBRiDS).
 
 **📚 Top Journal Publication (JMIR):**  
-https://www.medrxiv.org/content/10.1101/2025.02.20.25322509v1
+https://www.medrxiv.org/content/10.1101/2025.02.20.25322509v1  
 🔗 GitHub: 
 https://github.com/physiciandata/sepsis-eval
 
