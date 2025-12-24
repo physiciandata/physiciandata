@@ -1,7 +1,5 @@
 ## Hi there, I'm Khoa 👋
 
-<a href="https://www.linkedin.com/in/do-khoa/" target="_blank"><img align="right" width="202" height="238" src="https://raw.githubusercontent.com/physiciandata/physiciandata/main/profile_pic.jpg"></a>
-
 **🎯**  
 I’m a data engineer/AI engineer and medical doctor. 
 My expertise bridges the gap between technology, research and medicine. I thrive in delivering data and AI solutions that provide meaningful and immediate value.
