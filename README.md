@@ -13,7 +13,7 @@ My experience in different industries helps me to apply best practices, creating
 I engage in academic research on AI, developing frameworks and evaluation methods to ensure AI tools perform reliably in real-world hospital settings. I have examined the applicability of deep learning algorithms for the prediction of blood poisoning (sepsis). My work has been awarded at renowned international conferences (APAMI) and national conferences (BSRT-Symposium). 
 I'm also a researcher at the international research center "BIH Center for Regenerative Therapies" (BCRT) and at Helmholtz Research in Data Science (HEIBRiDS).
 
-📚 Preprint of Top Journal Publication (JMIR): https://www.medrxiv.org/content/10.1101/2025.02.20.25322509v1  
+📚 Top Journal Publication (JMIR): https://www.medrxiv.org/content/10.1101/2025.02.20.25322509v1  
 
 LinkedIn: https://www.linkedin.com/in/do-khoa/
 
